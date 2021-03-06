@@ -10,23 +10,23 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "ko,en,jp" #"ko-KR"
 title                    : "ToKyo Student Daily"
 title_separator          : "-"
 subtitle                 : "Hello :)"
 name                     : "SeongHeon"
 description              : "I want to be Backend Developer"
-url                      : "https://Heon1004.github.io" # GitBlog 호스트 주소
+url                      : "https://Heon1004.github.io" # GitBlog 호스트 주소 <https://devinlife.com/blog/start-blog/>
 baseurl                  : #서브가 있을경우 기재
 repository               : "Heon1004/HeonDaily.github.io" # GitHub username/repo-name  
-teaser                   : "./assets/images/couple.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Post to My Daily"
+teaser                   : "/assets/images/couple.png"
+logo                     : "/assets/images/Logocodeigniter" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "Tokyo&Seoul"
 # breadcrumbs            : true #
 words_per_minute         : 200
 comments:
@@ -117,7 +117,7 @@ author:
       # url: "https://github.com/Heon1004"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/heon_x00x/"
+      # url: "https://instagram.com/heon_x00x"
 
 # Site Footer
 footer:
