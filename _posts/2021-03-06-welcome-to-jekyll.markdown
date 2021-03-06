@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Heon Blog"
 date:   2021-03-06 01:28:43 +0900
 categories: jekyll update
 ---

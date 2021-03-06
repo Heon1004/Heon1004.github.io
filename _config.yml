@@ -24,7 +24,7 @@ description              : "I want to be Backend Developer"
 url                      : "https://Heon1004.github.io" # GitBlog 호스트 주소
 baseurl                  : #서브가 있을경우 기재
 repository               : "Heon1004/HeonDaily.github.io" # GitHub username/repo-name  
-teaser                   : "/assets/images/couple.png"
+teaser                   : "./assets/images/couple.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Post to My Daily"
 # breadcrumbs            : true #
@@ -117,7 +117,7 @@ author:
       # url: "https://github.com/Heon1004"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://instagram.com/heon_x00x/"
 
 # Site Footer
 footer:
@@ -139,7 +139,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      # url: "https://www.instagram.com/heon_x00x/"
 
 
 # Reading Files
